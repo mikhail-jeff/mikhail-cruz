@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jeff Mikhail Cruz Mangrobang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👋 Hi, I am Jeff Mikhail Cruz Mangrobang.
+- 👀 I am interested in the latest technologies.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Contact me at mikhailcruz78@gmail.com
 
 <!---
